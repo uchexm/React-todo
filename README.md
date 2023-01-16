@@ -36,11 +36,10 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Math Magicians ](#-math-magicians-)
+- [📖 To do list ](#-to-do-list-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -56,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 To do list <a name="about-project"></a>
 
 **React Todolist** is a website for all to add and edit and delete completed todos. It is a Single Page App (SPA) that allows users to make simple todo list. and read a random math-related quote.
 
@@ -79,17 +78,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **Calculator**
-- **Do maths tests**
 - **Leave Comments**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://github.com/uchexm/react-todo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
