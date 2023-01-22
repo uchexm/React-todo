@@ -56,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 React Todo <a name="about-project"></a>
 
 **React Todolist** is a website for all to add and edit and delete completed todos. It is a Single Page App (SPA) that allows users to make simple todo list. and read a random math-related quote.
 
@@ -139,7 +139,7 @@ To run the project, execute the following command:
 
 👤 **Uchechi Nwaka**
 
-- GitHub: [@githubhandle](https://github.com/uchexm)
+- GitHub: [@uchexm](https://github.com/uchexm)
 - Twitter: [@Nwakauc](https://twitter.com/Nwakauc)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/uchechi-nwaka-79a21a75/)
 
