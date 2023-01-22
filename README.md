@@ -24,9 +24,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="./src/murple_logo%20(1).png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>REACT TODOLIST</b></h3>
 
 </div>
